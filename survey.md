@@ -1,7 +1,7 @@
 # A Survey of Algorithmic Recourse (in Japanese)
 
 **ルール**
-- DBLPを「recourse」「counterfactual」「action」で検索
+- DBLPを「recourse」「counterfactual」「actionable」などで検索
 - タイトルと著者とURLをコピペ
 - アブストラクトとその和訳（DeepL）をコピペ
 
