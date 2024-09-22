@@ -606,8 +606,7 @@
 
 ## 2021
 ### [NeurIPS2021](https://dblp.org/db/conf/nips/neurips2021.html)
-#### [Towards Robust and Reliable Algorithmic Recourse
- (Sohini Upadhyay, Shalmali Joshi, Himabindu Lakkaraju)](https://proceedings.neurips.cc/paper/2021/hash/8ccfb1140664a5fa63177fb6e07352f0-Abstract.html)
+#### [Towards Robust and Reliable Algorithmic Recourse (Sohini Upadhyay, Shalmali Joshi, Himabindu Lakkaraju)](https://proceedings.neurips.cc/paper/2021/hash/8ccfb1140664a5fa63177fb6e07352f0-Abstract.html)
 <details>
     <summary>
         予測モデルが、リスクの高い意思決定（ローンの承認など）にますます導入されるようになるにつれ、影響を受ける個人に救済を提供するポストホックテクニックへの関心が高まっている。 これらの技法は、基礎となる予測モデルが変更されないという仮定のもとで遡及を生成する。 しかし実際には、モデルは様々な理由（例えばデータセットのシフト）によって定期的に更新されることが多く、それによって以前に規定されたリコースは有効でなくなる。この問題に対処するために、我々は、モデルのシフトにロバストなリコースを見つけるための敵対的学習を活用する、新しいフレームワークRObust Algorithmic Recourse（ROAR）を提案する。 我々の知る限り、この重要な問題に対する初めての解決策を提案するものである。 1)モデルシフトを考慮せずに生成されたコースが無効になる確率を定量化する。 2) 本フレームワークによって出力されるロバストなリコースによって発生する追加コストが有限であることを証明する。 複数の合成データセットと実世界データセットを用いた実験評価により、提案するフレームワークの有効性を実証する。
